@@ -17,7 +17,7 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
 <img src="https://raw.githubusercontent.com/root-Tpyro/root-Tpyro/output/snake.svg" alt="Snake animation" />
 
 
-### Listening Activity
+### Recently Listening
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq" alt="Spotify recently played" />
 </p>
