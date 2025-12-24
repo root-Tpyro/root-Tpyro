@@ -1,12 +1,8 @@
 ### About Me
-
 Starting from a small and ordinary position, I choose to pursue perfection as a way to rise above mediocrity and attain a sense of superiority in personal value.
-
-
 
 ###  Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/14Tpyro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/14tpyro/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r)
-
 
 ###  Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -16,8 +12,7 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
 ### Contributions
 <img src="https://raw.githubusercontent.com/root-Tpyro/root-Tpyro/output/snake.svg" alt="Snake animation" />
 
-
-### Recently Listening
+### Listening
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq" alt="Spotify recently played" />
 </p>
@@ -25,5 +20,10 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
 <div align="center">
   <img height="200" src="https://gifdb.com/images/high/smiling-big-eyes-toothless-meme-67lljapv0wgvx4ad.gif"  />
 </div>
+
+<p align="center">
+  Thank you for visiting. Have a great day!
+</p>
+
 
 
