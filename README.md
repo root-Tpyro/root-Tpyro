@@ -1,16 +1,6 @@
 ### About Me
 
-I am currently working on academic and personal web development projects, with a focus on building practical and maintainable systems.
-
-I am open to collaborating on web-based applications, especially projects related to e-commerce, content management systems, or internal tools.
-
-I am seeking opportunities to learn from real-world projects and improve my understanding of backend logic, system structure, and best practices.
-
-I am currently learning PHP, Laravel, modern frontend fundamentals, and database design, with an emphasis on real project implementation.
-
-You can ask me about web development basics, PHP/Laravel projects, academic system design, or how to structure small to medium-scale web applications.
-
-A personal note: I prefer clean, minimal, and data-driven design approaches over decorative or icon-heavy interfaces.
+Starting from a small and ordinary position, I choose to pursue perfection as a way to rise above mediocrity and attain a sense of superiority in personal value.
 
 
 
