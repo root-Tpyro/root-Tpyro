@@ -29,4 +29,4 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq&count={4})
