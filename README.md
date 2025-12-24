@@ -1,55 +1,30 @@
-<h2 align="center">Kim Hoàng Tiến</h2>
-<p align="center">IT Student · Web Developer</p>
+### About Me
+
+I am currently working on academic and personal web development projects, with a focus on building practical and maintainable systems.
+
+I am open to collaborating on web-based applications, especially projects related to e-commerce, content management systems, or internal tools.
+
+I am seeking opportunities to learn from real-world projects and improve my understanding of backend logic, system structure, and best practices.
+
+I am currently learning PHP, Laravel, modern frontend fundamentals, and database design, with an emphasis on real project implementation.
+
+You can ask me about web development basics, PHP/Laravel projects, academic system design, or how to structure small to medium-scale web applications.
+
+A personal note: I prefer clean, minimal, and data-driven design approaches over decorative or icon-heavy interfaces.
+
+
+
+##  Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/14Tpyro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/14tpyro/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r) 
+
+#  Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=root-Tpyrorô&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=root-Tpyrorô&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=root-Tpyrorô&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=root-Tpyrorô&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### Profile Summary
-- Primary focus: Web development
-- Main stack: PHP, Laravel, HTML, CSS, JavaScript
-- Project type: E-commerce, Academic systems
-- GitHub activity: Personal & academic projects
-
----
-
-### Language Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-Tpyro&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-### Activity Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root-Tpyro&show_icons=false&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-Tpyro&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-### Selected Repositories
-AB_Beauty_World  
-E-commerce website built with PHP and Laravel
-
-Laravel-Sorimachi  
-Laravel-based web application
-
-KLTN  
-Graduation thesis implementation project
-
-Cake-Shop  
-Static website using HTML, CSS, JavaScript
-
----
-
-### External Analytics
-Detailed GitHub statistics and charts:  
-https://gitglance.vercel.app/root-Tpyro
-
----
-
-<p align="center">
-  This profile is designed to present data clearly and objectively.
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
