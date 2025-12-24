@@ -15,12 +15,12 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
 
 <img src="https://raw.githubusercontent.com/root-Tpyro/root-Tpyro/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img height="200" src="https://gifdb.com/images/high/smiling-big-eyes-toothless-meme-67lljapv0wgvx4ad.gif"  />
-</div>
-
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq" alt="Spotify recently played" />
 </p>
+
+<div align="center">
+  <img height="200" src="https://gifdb.com/images/high/smiling-big-eyes-toothless-meme-67lljapv0wgvx4ad.gif"  />
+</div>
 
 
