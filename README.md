@@ -20,13 +20,9 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
   <img height="200" src="https://gifdb.com/images/high/smiling-big-eyes-toothless-meme-67lljapv0wgvx4ad.gif"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/root-Tpyro/root-Tpyro/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/root-Tpyro/root-Tpyro/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/root-Tpyro/root-Tpyro/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
