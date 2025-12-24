@@ -7,10 +7,6 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
 ##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/14Tpyro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/14tpyro/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r)
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=root-Tpyro&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=root-Tpyro&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=root-Tpyro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 #  Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
