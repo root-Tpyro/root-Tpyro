@@ -31,12 +31,8 @@ Starting from a small and ordinary position, I choose to pursue perfection as a 
 
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq)<p align="center">
-  <img
-    src="https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq"
-    alt="Spotify recently played"
-    width="400"
-  />
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dhbqhpxajq4kho7ieqe5qqmeqq" alt="Spotify recently played" />
 </p>
+
 
